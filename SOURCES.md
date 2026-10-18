@@ -1,0 +1,40 @@
+# Sources
+
+Tracks what fed the checklist and when, so staleness can be judged later —
+the checklist files themselves don't carry per-item dates (would clutter a
+list you're meant to move through quickly).
+
+| Date added | Source | Notes |
+|---|---|---|
+| 2024 (source published) | [polymorphic/tesla-model-y-checklist](https://github.com/polymorphic/tesla-model-y-checklist) | r/TeslaModelY distillation. Contributed most "locked-access" exterior items and the day-to-day watch items. |
+| 2024 (source published) | [mykeln/teslaprep](https://github.com/mykeln/teslaprep) — `model_y_checklist.md` | Walk-order structure `02-delivery-day.md` is built on; "things to bring" and most interior/paperwork items. |
+| 2026-09-16 (validated) | Web search: Blind Spot Camera firmware coverage | Still current — removed staleness hedge. |
+| 2026-09-16 (checked, no change) | Web search: window auto-reversal recall coverage | Only found an unrelated 2023 recall — window/trim-scratch bug left flagged, unconfirmed. |
+| 2026-09-16 (reconciled) | [Carscoops](https://www.carscoops.com/2025/01/2025-tesla-model-y-brings-sharper-looks-more-refinement-and-longer-range/) + [ev-inventory.com](https://ev-inventory.com/guide/tesla-model-y-juniper.php) on the Juniper refresh | Both prior sources predate Jan 2025 Juniper. Updated wheel names, marked tail light known-issue pre-refresh-only, added seat ventilation/ambient lighting/rear screen/power-fold items. |
+| 2026-09-16 (corrected) | User-supplied 2026 spec sheet (tesla.com) + web search | `04-day-to-day.md` warranty item conflated Basic Vehicle (4yr/50k) with Battery & Drive Unit (8yr/100-120k) warranty; also fixed stale "Long Range" → "Premium" trim name. |
+| 2026-09-16 (added) | Web search + TMC thread on Mobile Connector | Now standard on NA deliveries regardless of trim — merged into J1772 check. |
+| 2026-09-16 (updated) | Web search: tailgate light bar + condensation threads | Juniper's single light-bar taillight breaks the old "compare across 4 lights" condensation heuristic — updated. |
+| 2026-09-16 (corrected) | Web search: TMC/owner threads on rear window travel | Rear windows not fully lowering is by design, not a defect — corrected wording. |
+| 2026-09-16 (added) | Original source READMEs (top-level guides, not the checklist files reconciled originally) | Added: don't sign before inspection, no spare tire, registration-trim check, delivery-rep demo request. Confirmed no shared authorship between the two repos despite an initial mix-up. |
+| 2026-09-16 (added) | Web search: NMC vs. LFP charging guidance | Corrected the "100% once, early on" myth — chemistry-dependent and ongoing. Added charging-habit item + LFP/BMS glossary entries. |
+| 2026-09-16 (updated) | Web search: Juniper seat lumbar threads | Driver lumbar still exists; passenger lumbar unavailable on some 2025+ configs — updated seat item. |
+| 2026-09-16 (added) | Web search: EV brake rotor corrosion / one-pedal driving | One-pedal driving causes rotor rust — added brake-pedal-use item + glossary entries. |
+| 2026-09-16 (added) | Web search: Tesla Model Y maintenance-schedule guides | Added routine-maintenance reminders (Sentry/12V, tire rotation, brake fluid, cabin filter, car wash, updates) + HomeLink glossary entry. |
+| 2026-09-16 (added) | Web search: Supercharger idle/congestion fees + etiquette | Added "Public Charging Etiquette & Fees" section + Idle Fee/Congestion Fee glossary entries. |
+| 2026-09-17 (added, corrected) | Web search + [Electrek](https://electrek.co/2026/01/28/tesla-puts-4680-battery-cells-back-in-model-y/) + TMC threads on 4680 vs. 2170 | Traced a vague user memory to 4680/2170 cell identification. First pass overstated 4680's reach into US retail and wrongly said no in-car check exists. Corrected: 2170 still standard per a well-cited Aug 2025 TMC post, and Software → Additional Vehicle Information shows pack info on-screen. |
+| 2026-09-18 (added) | Web search: Supercharger V2/V3 ID + EV-vs-gas driving habits | Added V2/V3 silver-ring tip and a "Retraining Gas-Car Habits" section (flood water, cold regen, Hold vs. creep, preconditioning, towing, etc). Kept as a section, not a new file — revisit if `04-day-to-day.md` keeps growing. |
+| 2026-09-18 (added) | Web search: Tesla Trip Planner | Confirmed Trip Planner auto-adds/adjusts Supercharger stops — refined the route-planning item and added 4 missing glossary entries (V2/V3, Trip Planner, Hold/Creep, Preconditioning, Wade Mode) per CLAUDE.md's new-term rule. |
+| 2026-10-01 (updated) | Web search: Tesla 100% charge dwell time + long-term parking (TMC threads, Tesla owner's manual, prked.com guide) | Tightened "drive soon after 100%" to "~30 minutes, same day at most" per Tesla guidance. Expanded ~50% storage note with airport-specific tips: disable Sentry + Cabin Overheat, avoid app checks (~1%/day baseline drain). |
+| 2026-09-30 (added) | YouTube transcript: home charging tips and schedule setup (Rocker Rides Tesla channel) | Three refinements added: "end by" vs "start at" scheduling, one-time road-trip 100% schedule pattern, ~50% charge limit for long-term storage. |
+| 2026-09-30 (added) | YouTube transcript: first-EV buying advice (Eevee and Chill channel) | One item extracted: check utility for TOU/EV rate plan before charging. Rest is out-of-scope buying advice. |
+| 2026-09-29 (added) | YouTube transcript: "11 Tesla settings you should change" (2026 Model Y, channel unspecified) | Screened 11 items; 3 net-new added (Tesla-pricing-only Superchargers, Sentry live camera must-enable-in-car, encrypt dashcam recordings); rest UI preferences or already covered. |
+| 2026-09-28 (added) | YouTube transcript: "Top 10 DC fast charging best practices" (State of Charge channel, sponsored by Electrify America) | Screened 10 items + bonus; 2 net-new added (report broken stalls, set up non-Tesla network apps before road trip); rest already covered in etiquette section. |
+| 2026-09-27 (added) | YouTube transcript: Tesla settings setup walkthrough (channel unspecified) | Screened ~40 settings; 4 net-new added (walk-away door lock, PIN to drive, Low Power Mode Auto, battery health test); rest UI preferences or already covered. |
+| 2026-09-23 (added) | YouTube transcript: "30+ Tesla Model 3/Y features" walkthrough (Airvolt channel) | Screened ~30 items; 5 net-new added (ambient-light blind-spot door block, 5 emergency releases, trunk height geolocation, driver profile auto-switch, screen reboot); rest already covered or out of scope (UI walkthrough). |
+| 2026-09-21 (added) | YouTube transcript: "19 habits shortening your EV battery life" (channel unspecified) | Screened 19 items; 3 net-new added (range estimate caveat, 20% low floor, winter range loss), rest already covered or out of scope. Unverified claims (specific % figures) cross-checked before adding. |
+| 2026-09-21 (added) | Web search: Supercharging frequency vs. Level 2 battery health (Recharged.com, InsideEVs, TMC threads, Tesla 2026 Impact Report, OSTI NMC fast-charge research) | Occasional road-trip Supercharging: minimal degradation impact. Frequent Supercharging as primary charger accelerates it, especially in heat. Added Level 2-as-default habit item. |
+| 2026-09-20 (added) | YouTube Tesla-settings walkthrough transcript (user-pasted; Jeb's), verified via [TMC](https://teslamotorsclub.com/tmc/threads/turning-off-keep-accessory-power-on-fixed-my-phantom-drain.348400/), [Not a Tesla App](https://www.notateslaapp.com/news/2788/teslas-cabin-overheat-protection-what-it-does-options-battery-drain) | Added "Settings That Save Battery" (accessory power, cabin overheat, charge port heater, Schedule) + Phantom drain glossary entry; refined charge-limit and software-update items. Skipped unverified "1,500 cycles / 70% at 300-400k mi" claim and non-battery preference settings (out of scope). |
+
+When a new source is processed, add a row here (date you processed it, not
+just the source's own publish date if known) and note what it contributed
+or superseded — see `CLAUDE.md` for the reconcile/validate workflow.
