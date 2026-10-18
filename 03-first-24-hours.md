@@ -5,7 +5,7 @@
       app refusing login the next day when this step gets missed.
 - [ ] Verify the car shows as delivered in your phone app and that all app
       features work.
-- [ ] **Use your free trials before they expire** — new cars come with a
+- [ ] **Use your free trials before they expire** — new cars may include a
       free month of Premium Connectivity and a free FSD trial period.
       Both are use-it-or-lose-it; the car will notify you on screen when
       each is about to expire. Evaluate them while you have them so you
@@ -47,7 +47,7 @@
       on which phone approaches. To add a driver without a physical key
       handoff: Tesla app > Security & Drivers > Add Driver — sends them
       a link to download the app and pair their own phone key.
-- [ ] **Confirm Walk-Away Door Lock is on** (Controls > Locks > Walkway
+- [ ] **Confirm Walk-Away Door Lock is on** (Controls > Locks > Walk-Away
       Door Lock) — if this is off, the car will not auto-lock when you
       walk away with your phone, even though it looks like it should.
       Easy setting to miss; real security gap if it's left off.

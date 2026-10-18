@@ -100,8 +100,9 @@ separate remote.
 **Dashcam** — the same camera system, recording continuously while
 driving. Shares the same USB drive requirement as Sentry Mode.
 
-**Park Assist** — ultrasonic sensors that detect nearby obstacles while
-parking or maneuvering at low speed and warn the driver.
+**Park Assist** — camera-based system (Tesla Vision) that detects nearby
+obstacles while parking or maneuvering at low speed and warns the driver.
+Juniper-era Model Y uses cameras only — no ultrasonic sensors.
 
 **Blind Spot Camera** — shows a camera view of the lane next to you when
 you signal a turn or lane change, covering the blind spot your mirrors

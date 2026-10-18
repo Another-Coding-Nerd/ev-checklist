@@ -21,14 +21,17 @@
       is flexible, aim for early-to-mid quarter.
 - [ ] Don't sign final documents or wire remaining funds until you've
       completed a full inspection — once signed, you've accepted the car
-      as-is beyond the refusal/wear-and-tear windows noted below.
-- [ ] Know your 7-day/100-mile refusal window and 72-hour/100-mile
-      wear-and-tear reporting window (paint defects, scratches, etc.) for
-      free repair before you leave the lot — minor cosmetic issues don't
-      have to be fought over at the curb. Items normally covered under
-      warranty stay covered regardless of when you notice them.
-- [ ] If quality is genuinely inadequate, you can refuse delivery — you'll
-      be assigned a new VIN.
+      as-is for anything outside warranty coverage.
+- [ ] **You can refuse delivery if quality is genuinely inadequate** — you'll
+      be assigned a new VIN. This is a practical right at pickup, not a
+      timed return window: Tesla's 7-day return policy was discontinued in
+      2020 and no equivalent exists today. Once you sign and drive off, your
+      recourse is warranty claims and service appointments, not returns.
+- [ ] **Report cosmetic damage before you leave** — scratches, paint defects,
+      and panel issues are far easier to get addressed as pre-delivery
+      findings than as warranty claims filed later. Document everything with
+      photos on-site. Items covered under the Basic Vehicle warranty remain
+      claimable regardless of when you notice them.
 
 ## Verify Records Match Your Order
 
@@ -203,8 +206,9 @@ or underspray — trim and door handles included:
 - [ ] HVAC — run hot and cold at full power and listen for strange
       noises; forcing the heat pump to kick in (temperature to either
       extreme) is a good stress test.
-- [ ] Park Assist — press brake, shift to Drive/Reverse, have someone walk
-      in front of the car to trigger the sensor.
+- [ ] Park Assist — press brake, shift to Drive/Reverse, and slowly approach
+      a fixed obstacle (cone, bollard, wall) to confirm proximity warnings
+      appear on screen.
 - [ ] Blind Spot camera — enable Automatic Blind Spot Camera, signal a
       lane change, confirm the camera image appears (as of 2026 firmware
       this shows on the instrument cluster next to the speedometer, not
