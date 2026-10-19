@@ -39,6 +39,15 @@ here is legal, financial, or professional advice. Information may be
 incomplete, outdated, or incorrect — verify anything that matters before
 acting on it. Use at your own risk.
 
+## Acknowledgments
+
+This checklist was built on top of two excellent community resources:
+
+- **[polymorphic/tesla-model-y-checklist](https://github.com/polymorphic/tesla-model-y-checklist)** — a community-distilled r/TeslaModelY delivery checklist that contributed the bulk of the exterior inspection items and day-to-day watch items.
+- **[mykeln/teslaprep](https://github.com/mykeln/teslaprep)** — the walk-order structure for the delivery day checklist, "things to bring," and most of the interior and paperwork items came from here.
+
+Both are worth reading in full alongside this one.
+
 ## Contributing
 
 Issues and PRs welcome — especially corrections, model-year-specific updates, or items that have been patched/resolved.
