@@ -2,7 +2,7 @@
 
 Plain-language definitions for terms used in the checklist files, for a
 first-time EV/Tesla owner. Scoped to what actually shows up in this
-checklist — not a general EV encyclopedia (see `about.md`).
+checklist — not a general EV encyclopedia (see README.md for scope).
 
 **Frunk** — the front trunk. EVs have no engine up front, so that space
 becomes extra storage.
@@ -144,3 +144,22 @@ Y has no equivalent (see `04-day-to-day.md`).
 imperceptible braking to keep the rotors dry and free of surface rust,
 which can otherwise build up from one-pedal driving rarely putting the
 pads in contact with the rotors (see `04-day-to-day.md`).
+
+**Level 2 charger** — a 240V AC home or public charger, as opposed to a
+standard 120V household outlet (Level 1). Level 2 adds roughly 25–30
+miles of range per hour, making overnight charging practical. The Tesla
+Wall Connector is a Level 2 charger; so are most public non-Supercharger
+stations. Requires a dedicated 240V circuit installed by an electrician
+(see `01-pre-delivery.md`).
+
+**Wall Connector** — Tesla's own Level 2 home charger. Hardwired to a
+dedicated 240V circuit. The Universal Wall Connector works with both
+Tesla's connector and the J1772 standard, so it can charge non-Tesla EVs
+too.
+
+**NEMA 14-50 / NEMA 5-15** — two common household outlet types. NEMA
+14-50 is a 240V/50A outlet (same as a large appliance or RV hookup) —
+Tesla's Mobile Connector includes a 14-50 adapter for use where a Wall
+Connector isn't installed. NEMA 5-15 is a standard 120V/15A household
+outlet — functional but slow (Level 1), for emergencies or overnight
+trickle charging only.
