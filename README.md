@@ -1,4 +1,4 @@
-# Tesla Model Y Ownership Checklist
+# Tesla Model Y Purchase & Ownership Checklist
 
 A personal checklist for buying and owning a **2025+ Tesla Model Y** (Juniper refresh). Covers four phases of ownership with actionable, specific items — not generic EV advice.
 
