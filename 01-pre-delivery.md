@@ -31,6 +31,25 @@
       it to you — requests just get forwarded and details get lost in
       the handoff.
 
+## Home Charging Prep
+
+- [ ] **Order your Level 2 charger before you have a Tesla in your account**
+      — Tesla's app store requires an existing vehicle in "My Products"
+      to purchase a Tesla Wall Connector. If you try to order through the
+      app before delivery, you'll be blocked. Workarounds:
+      - **Best Buy** carries the Tesla Wall Connector at price-matched
+        Tesla.com pricing — the easiest option before delivery.
+      - **Amazon** also carries it but typically at a higher price.
+      - Tesla support confirmed this restriction; it is not a bug.
+- [ ] **Schedule your electrician early** — Tesla maintains a network of
+      recommended electricians accessible through the Tesla app or website.
+      Installation slots fill up; booking before your delivery date means
+      you're charging at full speed from day one rather than waiting weeks
+      on a Level 1 trickle charge. For reference: the Tesla Universal Wall
+      Connector ran ~$600 and installation (50A breaker + wall mount) ran
+      ~$600 as of late 2026 — verify current pricing, as the charger alone
+      saw a ~10% price increase within weeks of that purchase.
+
 ## Tracking Your Order
 
 - [ ] **Watch the "Edit Design" link in Vehicle Details** — on your Tesla
