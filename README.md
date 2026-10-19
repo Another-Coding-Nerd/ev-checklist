@@ -6,6 +6,7 @@ A personal checklist for buying and owning a **2025+ Tesla Model Y** (Juniper re
 
 | File | Phase |
 |------|-------|
+| `00-trade-in.md` | Trading in or selling your current vehicle |
 | `01-pre-delivery.md` | Before you pick up the car |
 | `02-delivery-day.md` | At the delivery center |
 | `03-first-24-hours.md` | Setup and configuration |
@@ -21,13 +22,22 @@ A personal checklist for buying and owning a **2025+ Tesla Model Y** (Juniper re
 
 Items are Juniper-era specific where it matters — pre-refresh gotchas are flagged as such.
 
-**Out of scope:** general EV buying advice, model comparisons, financing/leasing guidance, non-Tesla
+**Out of scope:** general EV buying advice, model comparisons, deep financing/leasing guidance, non-Tesla
 vehicles, detailed software UI walkthroughs unrelated to delivery or ownership watch-items, and
 maintenance/repair procedures beyond "here's what to watch for and when to get service involved."
+Basic financing mechanics (pre-approval, state availability, trade-in math) are covered at a checklist
+level — not as financial advice.
 
 ## Sources
 
 See `SOURCES.md`. Merged and verified from owner forums, delivery checklists, YouTube walkthroughs, and Tesla's own service documentation.
+
+## Disclaimer
+
+This is a personal checklist shared for informational purposes only. Nothing
+here is legal, financial, or professional advice. Information may be
+incomplete, outdated, or incorrect — verify anything that matters before
+acting on it. Use at your own risk.
 
 ## Contributing
 

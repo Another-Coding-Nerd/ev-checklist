@@ -32,6 +32,10 @@
       findings than as warranty claims filed later. Document everything with
       photos on-site. Items covered under the Basic Vehicle warranty remain
       claimable regardless of when you notice them.
+- [ ] **If you notice cosmetic damage after leaving, report it promptly via
+      the Tesla app** — Tesla has a post-delivery window for cosmetic issues;
+      the sooner you contact them the better. Don't assume it's too late just
+      because you've driven off the lot.
 
 ## Verify Records Match Your Order
 

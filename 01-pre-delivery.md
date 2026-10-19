@@ -2,10 +2,34 @@
 
 ## Before You Buy
 
-- [ ] Buy the car at the location you intend to pick it up. A showroom
-      sales rep isn't on the ground at the pickup location and can't
-      inspect the vehicle before selling it to you — requests just get
-      forwarded, and details get lost in the handoff.
+- [ ] **Get pre-approved for financing before you place your order** —
+      Tesla's checkout will prompt you for financing details, and having
+      a pre-approval in hand lets you compare Tesla's rate against your
+      own bank or credit union before committing.
+- [ ] **Verify Tesla financing is available in your state before ordering**
+      — Tesla's lending partner doesn't operate in every state. Check
+      Tesla's financing availability page before you place your order. If
+      your state isn't supported, call Tesla support after ordering to
+      arrange delivery in a supported state. Example: South Carolina
+      residents may need to take delivery in Georgia or North Carolina.
+- [ ] **If your credit is frozen, unfreeze it before applying** — the
+      pre-approval process will flag a frozen file and give you a direct
+      link to the relevant credit bureau to lift it. You're typically
+      given the option to unfreeze temporarily for several days rather
+      than permanently.
+- [ ] **Save a screenshot of your pre-approval** — keep it with your
+      purchase records.
+- [ ] **Use a referral link when placing your order** — you'll receive
+      free months of FSD. Referral benefits change over time; verify
+      what's current at order time. If you don't have one, use:
+      https://ts.la/ron824452 *(the author of this checklist also
+      receives a referral benefit when this link is used)*
+- [ ] **Set the correct zip code on the order screen** — Tesla uses your
+      zip code to assign a delivery location. Buy at the location you
+      intend to pick up from; a showroom sales rep isn't on the ground
+      at the pickup location and can't inspect the vehicle before selling
+      it to you — requests just get forwarded and details get lost in
+      the handoff.
 
 ## Tracking Your Order
 
@@ -48,6 +72,14 @@
       this vehicle's VIN before you leave for pickup. Easy to add "a new
       Tesla" to a policy without the correct VIN, which can leave you
       uninsured on the drive home.
+- [ ] **Shop around for insurance before your VIN is assigned** — rates
+      for a Model Y vary significantly between carriers, and switching
+      can save meaningful money. Two things to watch for: some insurers
+      offer an attractive introductory rate and quietly raise it at the
+      6-month renewal, counting on inertia to keep you. And the cheapest
+      quote isn't always the goal — the cheapest quote from a reputable
+      carrier is. Those are not always the same company. Check ratings
+      (J.D. Power, AM Best) alongside the premium.
 - [ ] Trade-in car, if applicable.
 - [ ] USB-A, USB-C, and 12V DC cables for testing the car's ports.
 - [ ] Flashlight — delivery/inspection areas can be dark.
