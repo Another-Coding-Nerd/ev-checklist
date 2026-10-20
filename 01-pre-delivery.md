@@ -77,6 +77,10 @@
       For AWD front motor specifically: look for **TL1** (current US
       spec, 142 kW) vs **TL2** (new spec, 176 kW — confirmed in China
       and Australia as of Oct 2026, not yet in US production).
+      Low-confidence tip: a small number of owners report that VIN digit
+      8 = **U** correlates with a TL2 Parts Catalog entry, while **K**
+      correlates with TL1. Not officially documented — use the Parts
+      Catalog to confirm, not the VIN alone.
 
 ## Things to Bring to Delivery
 

@@ -2,6 +2,14 @@
 
 A personal checklist for buying and owning a **2025+ Tesla Model Y** (Juniper refresh). Covers four phases of ownership with actionable, specific items — not generic EV advice.
 
+## Buy a Tesla?
+
+If you're buying a Tesla and don't have a referral link, you're welcome to use mine:
+**https://ts.la/ron824452**
+
+You'll receive free months of FSD — verify current benefits at order time as promotions change.
+*(Disclosure: the author of this checklist also receives a referral benefit when this link is used.)*
+
 ## Files
 
 | File | Phase |
